@@ -1,0 +1,23 @@
+﻿#IfWinActive, SQL
+{
+	::select::SELECT
+	::8::*
+	::id::Id
+	::update::--UPDATE
+	::go::GO
+	::from::FROM
+	::join::JOIN
+	::left::LEFT
+	::inner::INNER
+	::on::ON
+	::as::AS
+	::and::AND
+	::or::OR
+	::where::WHERE
+	::declare::DECLARE
+	::end::END
+	::case::CASE
+	::when::WHEN
+	::return::RETURN
+	::having::HAVING
+}
